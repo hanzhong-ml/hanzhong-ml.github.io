@@ -1,0 +1,83 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Han Zhong (钟涵)
+
+~~~
+{}{img_left}{photo.jpg}{alt text}{200}{246}
+\n \n
+Han Zhong \n 
+Ph.D. Student \n 
+Peking University \n 
+Email: hanzhong@stu.pku.edu.cn \n 
+[https://scholar.google.com/citations?user=Bk5q_pAAAAAJ&hl=en Google Scholar]
+
+
+
+~~~
+ 
+== About Me 
+
+I am a second year Ph.D. student in Peking University, where I am fortunate to be advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. \n
+
+My current research interests focus on machine learning theory (reinforcement learning theory in particular). 
+
+If you are interested in collaborating with me or want to have a chat, feel free to contact me through [hanzhong@stu.pku.edu.cn email] or [{Wechat.jpeg} WeChat].
+
+
+== Papers
+
+*    * * denotes equal contribution or alphabetical authorship ordering \n
+\n
+
+
+- [https://arxiv.org/abs/2205.13863 Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power] \n
+Binghui Li\*, Jikai Jin\*, *Han Zhong*, John E. Hopcroft, Liwei Wang \n
+  ArXiv, Preprint \n 
+
+- [https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game] \n
+Wei Xiong\*, *Han Zhong\**, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang \n
+  ArXiv, Preprint \n 
+
+- [https://arxiv.org/abs/2202.07511 Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets] \n
+ *Han Zhong\**, Wei Xiong\*, Jiyuan Tan\*, Liwei Wang, Tong Zhang, Zhaoran Wang, Zhuoran Yang \n
+    International Conference on Machine Learning (ICML) 2022 \n 
+     ICLR 2022 Workshop on Gamification and Multiagent Solutions \n
+
+
+- [https://proceedings.mlr.press/v162/xiong22b.html A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games] \n 
+Wei Xiong, *Han Zhong*, Chengshuai Shi, Cong Shen, Tong Zhang \n
+ International Conference on Machine Learning (ICML) 2022 \n 
+     ICLR 2022 Workshop on Gamification and Multiagent Solutions \n
+
+- [https://arxiv.org/abs/2112.10935 Nearly Optimal Policy Optimization with Stable at Any Time Guarantee] \n
+Tianhao Wu\*, Yunchang Yang\*, *Han Zhong\**, Liwei Wang, Simon S. Du, Jiantao Jiao \n
+International Conference on Machine Learning (ICML) 2022 \n 
+
+- [https://aps.arxiv.org/abs/2205.11140 Human-in-the-loop: Provably Efficient Preference-based Reinforcement Learning with General Function Approximation] \n 
+Xiaoyu Chen\*, *Han Zhong\**, Zhuoran Yang, Zhaoran Wang, Liwei Wang \n
+International Conference on Machine Learning (ICML) 2022 \n 
+
+- [https://arxiv.org/abs/2112.13521 Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopic Followers?] \n
+*Han Zhong*, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan \n 
+ICLR 2022 Workshop on Gamification and Multiagent Solutions \n
+
+- [https://arxiv.org/abs/2110.08984 Optimistic Policy Optimization is Provably Efficient in Non-stationary MDPs] \n 
+*Han Zhong*, Zhuoran Yang, Zhaoran Wang, Csaba Szepesvári \n 
+Arxiv, Preprint \n 
+
+- [https://arxiv.org/abs/2106.11692 A Reduction-Based Framework for Conservative Bandits and Reinforcement Learning] \n
+Yunchang Yang\*, Tianhao Wu\*, *Han Zhong\**, Evrard Garcelon, Matteo Pirotta, Alessandro Lazaric, Liwei Wang, Simon S. Du \n 
+International Conference on Learning Representations (ICLR) 2022 \n 
+
+- [https://arxiv.org/abs/2110.13876 Breaking the Moments Condition Barrier: No-Regret Algorithm for Bandits with Super Heavy-Tailed Payoffs] \n
+*Han Zhong*, Jiayi Huang, Lin F. Yang, Liwei Wang \n 
+ Neural Information Processing Systems (NeurIPS) 2021
+
+- [https://arxiv.org/abs/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n 
+*Han Zhong*, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang \n 
+Arxiv, Preprint \n 
+
+
+
+
+
+
