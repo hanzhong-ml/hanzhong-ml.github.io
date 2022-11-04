@@ -28,10 +28,17 @@ If you are interested in collaborating with me or want to have a chat, feel free
 *    * * denotes equal contribution or alphabetical authorship ordering \n
 \n
 
+- [https://arxiv.org/abs/2211.01962 A Posterior Sampling Framework for Interactive Decision Making] \n
+*Han Zhong\**, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
+ ArXiv Preprint \n 
+
+- [https://arxiv.org/abs/2210.15598 Provable Sim-to-real Transfer in Continuous Domain with Partial Observations] \n 
+Jiachen Hu\*, *Han Zhong\**, Chi Jin, Liwei Wang \n
+ ArXiv Preprint \n 
 
 - [https://arxiv.org/abs/2205.13863 Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power] \n
 Binghui Li\*, Jikai Jin\*, *Han Zhong*, John E. Hopcroft, Liwei Wang \n
-  ArXiv Preprint \n 
+  Conference on Neural Information Processing Systems (NeurIPS) 2022 \n 
 
 - [https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game] \n
 Wei Xiong\*, *Han Zhong\**, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang \n
@@ -43,7 +50,7 @@ Wei Xiong\*, *Han Zhong\**, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang \n
      ICLR 2022 Workshop on Gamification and Multiagent Solutions \n
 
 
-- [https://proceedings.mlr.press/v162/xiong22b.html A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games] \n 
+- [https://arxiv.org/abs/2210.01907  A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games] \n 
 Wei Xiong, *Han Zhong*, Chengshuai Shi, Cong Shen, Tong Zhang \n
  International Conference on Machine Learning (ICML) 2022 \n 
      ICLR 2022 Workshop on Gamification and Multiagent Solutions \n
@@ -71,7 +78,7 @@ International Conference on Learning Representations (ICLR) 2022 \n
 
 - [https://arxiv.org/abs/2110.13876 Breaking the Moments Condition Barrier: No-Regret Algorithm for Bandits with Super Heavy-Tailed Payoffs] \n
 *Han Zhong*, Jiayi Huang, Lin F. Yang, Liwei Wang \n 
- Neural Information Processing Systems (NeurIPS) 2021
+ Conference on Neural Information Processing Systems (NeurIPS) 2021
 
 - [https://arxiv.org/abs/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n 
 *Han Zhong*, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang \n 
