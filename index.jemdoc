@@ -16,11 +16,30 @@ Email: hanzhong@stu.pku.edu.cn \n
  
 == About Me 
 
-I am a second year Ph.D. student at Peking University, where I am fortunate to be advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. \n
+I am a second year Ph.D. student at Peking University, where I am fortunate to be advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. Before that, I obtained bachelor's degree in Mathematics from University of Science and Technology of China (USTC). Now I am a visiting student at Hong Kong University of Science and Technology (HKUST), working with Professor [http://tongzhang-ml.org/ Tong Zhang]. 
 
-My current research interests focus on machine learning theory (reinforcement learning theory in particular). 
+
+I work on machine learning (reinforcement learning theory in particular). My current research interests include:
+\n
+
+- Theoretical foundations of reinforcement learning, e.g., [https://arxiv.org/abs/2211.01962 a unified understanding of interactive decision making in MDP, POMDP, and PSR]. 
+
+- Multiagent reinforcement learning, e.g., equilibria-finding in [https://arxiv.org/abs/2202.07511 offline Markov games] and [https://arxiv.org/abs/2112.13521 Stackelberg games].
+
+
+- Robustness in machine learning, e.g., [https://arxiv.org/abs/2205.13863 robust generalization in deep learning], and [https://arxiv.org/abs/2210.15598 sim-to-real transfer via robust adversarial training].
+
+- Quantum machine learning, e.g., [https://arxiv.org/abs/2302.10796 quantum reinforcement learning].
+
 
 If you are interested in collaborating with me or want to have a chat, feel free to contact me through [hanzhong@stu.pku.edu.cn email] or [Wechat.jpeg WeChat].
+
+
+
+
+
+
+
 
 
 == Papers
@@ -28,6 +47,13 @@ If you are interested in collaborating with me or want to have a chat, feel free
 *    * * denotes equal contribution or alphabetical authorship ordering \n
 \n
 
+- [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
+*Han Zhong\**, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
+ ArXiv Preprint \n 
+
+- [https://arxiv.org/abs/2302.01477 A Reduction-based Framework for Sequential Decision Making with Delayed Feedback] \n
+Yunchang Yang\*, *Han Zhong\**, Tianhao Wu\*, Bin Liu, Liwei Wang, Simon S. Du \n
+ ArXiv Preprint \n 
 
 - [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
 *Han Zhong\**, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
