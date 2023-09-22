@@ -6,6 +6,28 @@
 
 == Conference Papers 
 
+- [https://arxiv.org/abs/2305.08841 A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes] \n
+Han Zhong, Tong Zhang \n 
+ Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
+
+- [https://arxiv.org/abs/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
+Jose Blanchet\*, Miao Lu\*, Tong Zhang\*, Han Zhong\* \n 
+ Conference on Neural Information Processing Systems (NeurIPS) 2023 (short version) \n 
+
+
+- [https://arxiv.org/abs/2305.18258 One Objective to Rule Them All: A Maximization Objective Fusing Estimation and Planning for Exploration] \n 
+Zhihan Liu\*, Miao Lu\*, Wei Xiong\*, Han Zhong, Hao Hu, Shenao Zhang, Sirui Zheng, Zhuoran Yang, Zhaoran Wang \n 
+ Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
+
+
+- [https://arxiv.org/abs/2306.06836 Tackling Heavy-Tailed Rewards in Reinforcement Learning with Function Approximation: Minimax Optimal and Instance-Dependent Regret Bounds] \n 
+Jiayi Huang, Han Zhong, Liwei Wang, Lin F. Yang \n 
+ Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
+
+
+- [https://arxiv.org/abs/2302.01477 A Reduction-based Framework for Sequential Decision Making with Delayed Feedback] \n
+Yunchang Yang\*, Han Zhong\*, Tianhao Wu\*, Bin Liu, Liwei Wang, Simon S. Du \n
+ Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 - [https://arxiv.org/abs/2210.15598 Provable Sim-to-real Transfer in Continuous Domain with Partial Observations] \n 
 Jiachen Hu\*, Han Zhong\*, Chi Jin, Liwei Wang \n
@@ -61,17 +83,11 @@ ICLR 2022 Workshop on Gamification and Multiagent Solutions
  == Preprints
 
 
-- [https://arxiv.org/abs/2305.08841 A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes] \n
-Han Zhong, Tong Zhang \n 
 
-- [https://arxiv.org/abs/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
-Jose Blanchet\*, Miao Lu\*, Tong Zhang\*, Han Zhong\* \n 
 
 - [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
 Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
 
-- [https://arxiv.org/abs/2302.01477 A Reduction-based Framework for Sequential Decision Making with Delayed Feedback] \n
-Yunchang Yang\*, Han Zhong\*, Tianhao Wu\*, Bin Liu, Liwei Wang, Simon S. Du \n
 
 - [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
 Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
@@ -80,4 +96,4 @@ Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, T
 Han Zhong, Zhuoran Yang, Zhaoran Wang, Csaba Szepesvári \n 
 
 - [https://arxiv.org/abs/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n 
-Han Zhong, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang 
+Han Zhong, Xun Deng, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang, Runze Li  
