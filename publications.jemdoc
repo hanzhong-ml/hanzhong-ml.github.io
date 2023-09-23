@@ -4,7 +4,7 @@
 *    * * denotes equal contribution or alphabetical authorship ordering \n
 
 
-== Conference Papers 
+== Conference Publications 
 
 - [https://arxiv.org/abs/2305.08841 A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes] \n
 Han Zhong, Tong Zhang \n 
@@ -73,9 +73,9 @@ International Conference on Learning Representations (ICLR) 2022 \n
 Han Zhong, Jiayi Huang, Lin F. Yang, Liwei Wang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2021 
 
-== Journal Papers 
+== Journal Publications 
 
-- [https://arxiv.org/abs/2112.13521 Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopic Followers?] \n
+- [https://arxiv.org/abs/2112.13521 Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopically Rational Followers?] \n
 Han Zhong, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan \n 
 Journal of Machine Learning Research (JMLR) 2023 \n
 ICLR 2022 Workshop on Gamification and Multiagent Solutions 
