@@ -36,7 +36,7 @@ ArXiv preprint \n
 
 
 
-+Multi-Agent Reinforcement Learning:+ We develope the first line of efficient equilibrium-finding algorithms for offline Markov games and Stackelberg games.
++Multi-Agent Reinforcement Learning:+ We develope the first line of efficient equilibrium-finding algorithms for offline Markov games and Stackelberg Markov games.
 
 - [https://arxiv.org/abs/2112.13521 Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopically Rational Followers?] \n
 Han Zhong, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan \n 
