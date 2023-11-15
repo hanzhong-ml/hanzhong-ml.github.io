@@ -15,7 +15,7 @@ Jose Blanchet\*, Miao Lu\*, Tong Zhang\*, Han Zhong\* \n
  Conference on Neural Information Processing Systems (NeurIPS) 2023 (short version) \n 
 
 
-- [https://arxiv.org/abs/2305.18258 One Objective to Rule Them All: A Maximization Objective Fusing Estimation and Planning for Exploration] \n 
+- [https://arxiv.org/abs/2305.18258 Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration] \n 
 Zhihan Liu\*, Miao Lu\*, Wei Xiong\*, Han Zhong, Hao Hu, Shenao Zhang, Sirui Zheng, Zhuoran Yang, Zhaoran Wang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
@@ -29,7 +29,7 @@ Jiayi Huang, Han Zhong, Liwei Wang, Lin F. Yang \n
 Yunchang Yang\*, Han Zhong\*, Tianhao Wu\*, Bin Liu, Liwei Wang, Simon S. Du \n
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
-- [ Posterior Sampling for Competitive RL: Function Approximation and Partial Observation] \n 
+- [https://arxiv.org/abs/2310.19861 Posterior Sampling for Competitive RL: Function Approximation and Partial Observation] \n 
 Shuang Qiu, Ziyu Dai, Han Zhong, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
@@ -87,7 +87,8 @@ ICLR 2022 Workshop on Gamification and Multiagent Solutions
  == Preprints
 
 
-
+- [https://arxiv.org/abs/2310.12955 Towards Robust Offline Reinforcement Learning under Diverse Data Corruption] \n 
+Rui Yang\*, Han Zhong\*, Jiawei Xu\*, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang
 
 - [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
 Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 

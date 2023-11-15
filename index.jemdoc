@@ -26,7 +26,7 @@ I work on machine learning. The primary goal of my research is to design provabl
 
 +Theoretical Foundation of Interactive Decision Making:+ We propose a unified framework GEC for interactive decision making.
 
-- [https://arxiv.org/abs/2305.18258 One Objective to Rule Them All: A Maximization Objective Fusing Estimation and Planning for Exploration] \n 
+- [https://arxiv.org/abs/2305.18258 Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration] \n 
 Zhihan Liu\*, Miao Lu\*, Wei Xiong\*, Han Zhong, Hao Hu, Shenao Zhang, Sirui Zheng, Zhuoran Yang, Zhaoran Wang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023
 

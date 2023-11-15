@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{talks.html}
+== Talks
+
+
+- [robust_rl_slides.pdf Understanding Robust Reinforcement Learning] 
+
+- [gec_slides.pdf GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond]
+
+- [offline_game_slides.pdf Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets]
+
