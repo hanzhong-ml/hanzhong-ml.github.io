@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}
 == Publications
 
-*    * * denotes equal contribution or alphabetical authorship ordering \n
+*    * * denotes equal contribution \n
 
 
 == Conference Publications 
@@ -11,7 +11,7 @@ Han Zhong, Tong Zhang \n
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 - [https://arxiv.org/abs/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
-Jose Blanchet\*, Miao Lu\*, Tong Zhang\*, Han Zhong\* \n 
+Jose Blanchet, Miao Lu, Tong Zhang, Han Zhong (alphabetical order) \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 (short version) \n 
 
 
@@ -30,7 +30,7 @@ Yunchang Yang\*, Han Zhong\*, Tianhao Wu\*, Bin Liu, Liwei Wang, Simon S. Du \n
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 - [https://arxiv.org/abs/2310.19861 Posterior Sampling for Competitive RL: Function Approximation and Partial Observation] \n 
-Shuang Qiu, Ziyu Dai, Han Zhong, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n 
+Shuang Qiu\*, Ziyu Dai\*, Han Zhong, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 - [https://arxiv.org/abs/2210.15598 Provable Sim-to-real Transfer in Continuous Domain with Partial Observations] \n 
@@ -86,9 +86,15 @@ ICLR 2022 Workshop on Gamification and Multiagent Solutions
 
  == Preprints
 
+- [https://arxiv.org/abs/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
+Guhao Feng, Han Zhong (alphabetical order) \n 
+
+- [https://arxiv.org/abs/2312.11456 Gibbs Sampling from Human Feedback: A Provable KL-constrained Framework for RLHF] \n 
+Wei Xiong\*, Hanze Dong\*, Chenlu Ye\*, Han Zhong, Nan Jiang, Tong Zhang \n
+
 
 - [https://arxiv.org/abs/2310.12955 Towards Robust Offline Reinforcement Learning under Diverse Data Corruption] \n 
-Rui Yang\*, Han Zhong\*, Jiawei Xu\*, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang
+Rui Yang\*, Han Zhong\*, Jiawei Xu\*, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang \n 
 
 - [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
 Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 

@@ -24,7 +24,11 @@ I work on machine learning. The primary goal of my research is to design provabl
 == Selected Publications
 
 
-+Theoretical Foundation of Interactive Decision Making:+ We propose a unified framework GEC for interactive decision making.
++Theoretical Foundation of Interactive Decision Making:+ We propose a unified framework, GEC, to study the statistical complexity of interactive decision making. We also reveal a potential representation complexity hierarchy among different reinforcement learning paradigms, including model-based RL, policy-based RL, and value-based RL.
+
+- [https://arxiv.org/abs/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
+Guhao Feng, Han Zhong (alphabetical order) \n 
+
 
 - [https://arxiv.org/abs/2305.18258 Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration] \n 
 Zhihan Liu\*, Miao Lu\*, Wei Xiong\*, Han Zhong, Hao Hu, Shenao Zhang, Sirui Zheng, Zhuoran Yang, Zhaoran Wang \n 
@@ -32,7 +36,7 @@ Zhihan Liu\*, Miao Lu\*, Wei Xiong\*, Han Zhong, Hao Hu, Shenao Zhang, Sirui Zhe
 
 - [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
 Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
-ArXiv preprint \n 
+
 
 
 
@@ -51,7 +55,7 @@ Journal of Machine Learning Research (JMLR) 2023 \n
 +Robust Machine Learning:+ We focus on understanding distributionally robust reinforcement learning and robust generalization in deep learning.
 
 - [https://arxiv.org/abs/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
-Jose Blanchet\*, Miao Lu\*, Tong Zhang\*, Han Zhong\* \n 
+ Jose Blanchet, Miao Lu, Tong Zhang, Han Zhong (alphabetical order) \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 - [https://arxiv.org/abs/2210.15598 Provable Sim-to-real Transfer in Continuous Domain with Partial Observations] \n 
