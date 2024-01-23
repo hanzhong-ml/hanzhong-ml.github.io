@@ -6,6 +6,19 @@
 
 == Conference Publications 
 
+- [https://arxiv.org/abs/2310.12955 Towards Robust Offline Reinforcement Learning under Diverse Data Corruption] \n 
+Rui Yang\*, Han Zhong\*, Jiawei Xu\*, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang \n 
+International Conference on Learning Representations (ICLR) 2024 \n 
+
+- [https://openreview.net/forum?id=fq1wNrC2ai Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation] \n 
+Jianliang He, Han Zhong, Zhuoran Yang \n 
+International Conference on Learning Representations (ICLR) 2024 \n 
+
+- [https://arxiv.org/abs/2312.04464 Horizon-Free and Instance-Dependent Regret Bounds for Reinforcement Learning with General Function Approximation] \n 
+Jiayi Huang, Han Zhong, Liwei Wang, Lin F. Yang \n 
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2024 \n 
+
+
 - [https://arxiv.org/abs/2305.08841 A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes] \n
 Han Zhong, Tong Zhang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
@@ -92,9 +105,6 @@ Guhao Feng, Han Zhong (alphabetical order) \n
 - [https://arxiv.org/abs/2312.11456 Gibbs Sampling from Human Feedback: A Provable KL-constrained Framework for RLHF] \n 
 Wei Xiong\*, Hanze Dong\*, Chenlu Ye\*, Han Zhong, Nan Jiang, Tong Zhang \n
 
-
-- [https://arxiv.org/abs/2310.12955 Towards Robust Offline Reinforcement Learning under Diverse Data Corruption] \n 
-Rui Yang\*, Han Zhong\*, Jiawei Xu\*, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang \n 
 
 - [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
 Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
