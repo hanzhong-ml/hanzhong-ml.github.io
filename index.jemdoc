@@ -18,7 +18,7 @@ Email: hanzhong@stu.pku.edu.cn \n
 
 I am a third-year Ph.D. student at Peking University, where I am fortunate to be advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. Before that, I obtained a bachelor's degree in Mathematics from University of Science and Technology of China (USTC). Additionally, I had the privilege of conducting research at both the Hong Kong University of Science and Technology (HKUST), where I collaborated with Professor [http://tongzhang-ml.org/ Tong Zhang], and at Microsoft Research Asia (MSRA), where I had the opportunity to work with Doctor [https://www.microsoft.com/en-us/research/people/weic/ Wei Chen].
 
-I work on machine learning. The primary goal of my research is to design provably efficient and practical machine learning algorithms, particularly in the context of interactive decision-making problems. To achieve this goal, my recent researches focus on reinforcement learning theory. Currently, I am also interested in [https://arxiv.org/abs/2205.11140 RLHF] (for LLMs) and foundation models (for decision-making problems). If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
+I work on machine learning. The primary goal of my research is to design provably efficient and practical machine learning algorithms, particularly in the context of interactive decision-making problems. To achieve this goal, my recent researches focus on reinforcement learning theory. Currently, I am also interested in RLHF (for LLMs) and foundation models (for decision-making problems). If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
 
 
 == Selected Publications
@@ -27,7 +27,7 @@ I work on machine learning. The primary goal of my research is to design provabl
 +Theoretical Foundation of Interactive Decision Making:+ We propose a unified framework, GEC, to study the statistical complexity of interactive decision making. We also reveal a potential representation complexity hierarchy among different reinforcement learning paradigms, including model-based RL, policy-based RL, and value-based RL.
 
 - [https://arxiv.org/abs/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
-Guhao Feng, Han Zhong (alphabetical order) \n 
+(α-β order) Guhao Feng, Han Zhong  \n 
 
 
 - [https://arxiv.org/abs/2305.18258 Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration] \n 
@@ -38,6 +38,20 @@ Zhihan Liu\*, Miao Lu\*, Wei Xiong\*, Han Zhong, Hao Hu, Shenao Zhang, Sirui Zhe
 Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
 
 
++Reinforcement Learning from Human Feedback:+ We provide the first result for RLHF with general function approximation. We also initialize the studies on RLHF with KL-constraint, under both sentence-wise bandit and token-wise MDP frameworks. Our theoretical insights lead to the development of iterative learning in RLHF and Reinforced Token Optimization (RTO).
+
+- [https://arxiv.org/abs/2404.18922 DPO Meets PPO: Reinforced Token Optimization for RLHF] \n 
+Han Zhong\*, Guhao Feng\*, Wei Xiong\*, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
+
+
+- [https://arxiv.org/abs/2312.11456 Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint] \n 
+Wei Xiong\*, Hanze Dong\*, Chenlu Ye\*, Ziqi Wang, Han Zhong, Heng Ji, Nan Jiang, Tong Zhang \n
+International Conference on Machine Learning (ICML) 2024 \n
+
+- [https://arxiv.org/abs/2205.11140 Human-in-the-loop: Provably Efficient Preference-based Reinforcement Learning with General Function Approximation] \n 
+Xiaoyu Chen\*, Han Zhong\*, Zhuoran Yang, Zhaoran Wang, Liwei Wang \n
+International Conference on Machine Learning (ICML) 2022 \n 
+  
 
 
 +Multi-Agent Reinforcement Learning:+ We develope the first line of efficient equilibrium-finding algorithms for offline Markov games and Stackelberg Markov games.
@@ -51,20 +65,20 @@ Journal of Machine Learning Research (JMLR) 2023 \n
     International Conference on Machine Learning (ICML) 2022 \n 
 
 
++Robust Machine Learning:+ We provide a comprehensive study of distributionally robust RL, exploring its role in reducing sim-to-real gaps and investigating sample-efficient learning in online and offline settings.
 
-+Robust Machine Learning:+ We focus on understanding distributionally robust reinforcement learning and robust generalization in deep learning.
+- [https://arxiv.org/abs/2404.03578 Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm] \n 
+Miao Lu\*, Han Zhong\*, Tong Zhang, Jose Blanchet \n 
 
 - [https://arxiv.org/abs/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
- Jose Blanchet, Miao Lu, Tong Zhang, Han Zhong (alphabetical order) \n 
+ (α-β order) Jose Blanchet, Miao Lu, Tong Zhang, Han Zhong \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 - [https://arxiv.org/abs/2210.15598 Provable Sim-to-real Transfer in Continuous Domain with Partial Observations] \n 
 Jiachen Hu\*, Han Zhong\*, Chi Jin, Liwei Wang \n
 International Conference on Learning Representations (ICLR) 2023 \n 
 
-- [https://arxiv.org/abs/2205.13863 Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power] \n
-Binghui Li\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang \n
-  Conference on Neural Information Processing Systems (NeurIPS) 2022 \n 
+
 
 
 +Policy Optimization:+ We provide theoretical guarantees for policy optimization algorithms, especially optimistic proximal policy optimization (PPO). 

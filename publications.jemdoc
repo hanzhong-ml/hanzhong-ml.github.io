@@ -1,16 +1,37 @@
 # jemdoc: menu{MENU}{publications.html}
 == Publications
 
-*    * * denotes equal contribution \n
+*    * * denotes equal contribution and α-β order denotes alphabetical authorship ordering \n
 
 
 == Conference Publications 
+
+- [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
+Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
+  International Conference on Machine Learning (ICML) 2024 \n 
+
+- [https://arxiv.org/abs/2312.11456 Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint] \n 
+Wei Xiong\*, Hanze Dong\*, Chenlu Ye\*, Ziqi Wang, Han Zhong, Heng Ji, Nan Jiang, Tong Zhang \n
+  International Conference on Machine Learning (ICML) 2024 \n 
+  ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models \n 
+
+- [https://arxiv.org/abs/2402.10207 Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment] \n
+Rui Yang\*, Xiaoman Pan\*, Feng Luo\*, Shuang Qiu\*, Han Zhong, Dong Yu, Jianshu Chen \n 
+   International Conference on Machine Learning (ICML) 2024 \n 
+
+- [ Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond] \n 
+Xutong Liu, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, Wei Chen \n 
+ International Conference on Machine Learning (ICML) 2024 \n 
+
+- [ A3S: A General Active Clustering Method with Pairwise Constraints] \n 
+Xun Deng, Junlong Liu, Han Zhong, Fuli Feng, Chen Shen, Xiangnan He, Jieping Ye, Zheng Wang \n 
+  International Conference on Machine Learning (ICML) 2024 \n 
 
 - [https://arxiv.org/abs/2310.12955 Towards Robust Offline Reinforcement Learning under Diverse Data Corruption] \n 
 Rui Yang\*, Han Zhong\*, Jiawei Xu\*, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang \n 
 International Conference on Learning Representations (ICLR) 2024 \n 
 
-- [ Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation] \n 
+- [https://arxiv.org/abs/2404.12648 Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation] \n 
 Jianliang He, Han Zhong, Zhuoran Yang \n 
 International Conference on Learning Representations (ICLR) 2024 \n 
 
@@ -24,7 +45,7 @@ Han Zhong, Tong Zhang \n
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 - [https://arxiv.org/abs/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
-Jose Blanchet, Miao Lu, Tong Zhang, Han Zhong (alphabetical order) \n 
+ (α-β order) Jose Blanchet, Miao Lu, Tong Zhang, Han Zhong  \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 (short version) \n 
 
 
@@ -99,16 +120,14 @@ ICLR 2022 Workshop on Gamification and Multiagent Solutions
 
  == Preprints
 
+- [https://arxiv.org/abs/2404.18922 DPO Meets PPO: Reinforced Token Optimization for RLHF] \n 
+Han Zhong\*, Guhao Feng\*, Wei Xiong\*, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
+
+- [https://arxiv.org/abs/2404.03578 Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm] \n 
+Miao Lu\*, Han Zhong\*, Tong Zhang, Jose Blanchet \n 
+
 - [https://arxiv.org/abs/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
-Guhao Feng, Han Zhong (alphabetical order) \n 
-
-- [https://arxiv.org/abs/2312.11456 Gibbs Sampling from Human Feedback: A Provable KL-constrained Framework for RLHF] \n 
-Wei Xiong\*, Hanze Dong\*, Chenlu Ye\*, Han Zhong, Nan Jiang, Tong Zhang \n
-
-
-- [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
-Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
-
+ (α-β order) Guhao Feng, Han Zhong \n 
 
 - [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
 Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
