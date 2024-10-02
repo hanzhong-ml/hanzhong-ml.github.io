@@ -38,7 +38,7 @@ Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, T
 +Reinforcement Learning from Human Feedback:+ We provide the first theoretical result for RLHF with function approximation. We also initialize the studies on RLHF with KL-constraint, under both sentence-wise bandit and token-wise MDP frameworks. Our theoretical insights lead to the development of iterative learning in RLHF and Reinforced Token Optimization (RTO).
 
 - [https://arxiv.org/abs/2404.18922 DPO Meets PPO: Reinforced Token Optimization for RLHF] \n 
-Han Zhong\*, Guhao Feng\*, Wei Xiong\*, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
+Han Zhong\*, Guhao Feng\*, Wei Xiong\*, Xinle Cheng, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
 
 
 - [https://arxiv.org/abs/2312.11456 Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint] \n 
