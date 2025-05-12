@@ -16,20 +16,24 @@ Email: hanzhong@stu.pku.edu.cn \n
  
 == About Me 
 
-I am a Ph.D. student at Peking University, where I am fortunate to be advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. Before that, I obtained a bachelor's degree in Mathematics from University of Science and Technology of China (USTC). Additionally, I had the privilege of conducting research at both the Hong Kong University of Science and Technology (HKUST), where I collaborated with Professor [http://tongzhang-ml.org/ Tong Zhang], and at Microsoft Research Asia (MSRA), where I had the opportunity to work with Doctor [https://www.microsoft.com/en-us/research/people/weic/ Wei Chen]. This fall, I am a visiting student at Northwestern University, hosted by Professor [https://zhaoranwang.github.io/ Zhaoran Wang].
+I am a Ph.D. student at Peking University, where I am fortunate to be advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. Before that, I obtained a bachelor's degree in Mathematics from University of Science and Technology of China (USTC). Additionally, I had the privilege of conducting research at the Hong Kong University of Science and Technology (HKUST) with Professor [http://tongzhang-ml.org/ Tong Zhang], Microsoft Research Asia (MSRA) with Doctor [https://www.microsoft.com/en-us/research/people/weic/ Wei Chen], and Northwestern University with Professor [https://zhaoranwang.github.io/ Zhaoran Wang].
 
-I work on machine learning. The primary goal of my research is to design provably efficient and practical machine learning algorithms, particularly in the context of interactive decision-making problems. To achieve this goal, my recent researches focus on reinforcement learning theory. Currently, I am also interested in exploring the role of reinforcement learning in foundation models (such as aligning large language models with RLHF). If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
+I work on machine learning. The primary goal of my research is to design provably efficient and practical machine learning algorithms, particularly in the context of interactive decision-making problems. To achieve this goal, my recent researches focus on reinforcement learning theory and its connections with operations research, statistics, and optimization. Currently, I am also interested in exploring the role of reinforcement learning in foundation models, particularly for aligning large language models with human preferences and enhancing their reasoning capabilities. If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
+
 
 
 == Selected Publications
 
 
-+Theoretical Foundation of Interactive Decision Making:+ We propose a unified framework, GEC, to study the statistical complexity of interactive decision making. We also reveal a potential representation complexity hierarchy among different reinforcement learning paradigms, including model-based RL, policy-based RL, and value-based RL.
++Theoretical Foundation of Interactive Decision Making:+ We propose a unified framework, GEC, to study the statistical complexity of interactive decision making. We reveal a potential representation complexity hierarchy among different reinforcement learning paradigms, including model-based RL, policy-based RL, and value-based RL. Beyond classical RL, we provide the first proof that quantum computing enables quadratic speedup in online exploration.
 
 - [https://arxiv.org/abs/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
  (α-β order) Guhao Feng, Han Zhong  \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2024 \n 
 
+- [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
+Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
+  International Conference on Machine Learning (ICML) 2024 \n 
 
 - [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
 Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
@@ -38,7 +42,8 @@ Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, T
 +Reinforcement Learning from Human Feedback:+ We provide the first theoretical result for RLHF with function approximation. We also initialize the studies on RLHF with KL-constraint, under both sentence-wise bandit and token-wise MDP frameworks. Our theoretical insights lead to the development of iterative learning in RLHF and Reinforced Token Optimization (RTO).
 
 - [https://arxiv.org/abs/2404.18922 DPO Meets PPO: Reinforced Token Optimization for RLHF] \n 
-Han Zhong\*, Guhao Feng\*, Wei Xiong\*, Xinle Cheng, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
+Han Zhong\*, Zikang Shan\*, Guhao Feng\*, Wei Xiong\*, Xinle Cheng, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
+International Conference on Machine Learning (ICML) 2025 \n 
 
 
 - [https://arxiv.org/abs/2312.11456 Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint] \n 
@@ -53,7 +58,7 @@ International Conference on Machine Learning (ICML) 2022 \n
 
 +Multi-Agent Reinforcement Learning:+ We develope the first line of efficient equilibrium-finding algorithms for offline Markov games and Stackelberg Markov games.
 
-- [https://arxiv.org/abs/2112.13521 Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopically Rational Followers?] \n
+- [https://www.jmlr.org/papers/volume24/22-0203/22-0203.pdf Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopically Rational Followers?] \n
 Han Zhong, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan \n 
 Journal of Machine Learning Research (JMLR) 2023 \n
 
