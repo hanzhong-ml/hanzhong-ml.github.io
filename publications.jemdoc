@@ -141,6 +141,10 @@ Han Zhong, Jiayi Huang, Lin F. Yang, Liwei Wang \n
 
 == Journal Publications 
 
+- [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
+Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
+Mathematics of Operations Research (MOR), 2025+ \n 
+
 - [https://www.jmlr.org/papers/volume24/22-0203/22-0203.pdf Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopically Rational Followers?] \n
 Han Zhong, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan \n 
 Journal of Machine Learning Research (JMLR) 2023 \n
@@ -153,9 +157,6 @@ Yuxuan Han, Han Zhong, Miao Lu, Jose Blanchet, Zhengyuan Zhou \n
 
 - [https://arxiv.org/abs/2502.14560 Less is More: Improving LLM Alignment via Preference Data Selection] \n 
 Xun Deng, Han Zhong, Rui Ai, Fuli Feng, Zheng Wang, Xiangnan He \n 
-
-- [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
-Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
 
  - [https://arxiv.org/abs/2110.08984 Optimistic Policy Optimization is Provably Efficient in Non-stationary MDPs] \n 
 Han Zhong, Zhongren Chen, Zhuoran Yang, Zhaoran Wang, Csaba Szepesvári \n 

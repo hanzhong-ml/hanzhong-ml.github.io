@@ -27,16 +27,17 @@ I work on machine learning. The primary goal of my research is to design provabl
 
 +Theoretical Foundation of Interactive Decision Making:+ We propose a unified framework, GEC, to study the statistical complexity of interactive decision making. We reveal a potential representation complexity hierarchy among different reinforcement learning paradigms, including model-based RL, policy-based RL, and value-based RL. Beyond classical RL, we provide the first proof that quantum computing enables quadratic speedup in online exploration.
 
+- [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
+Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
+Mathematics of Operations Research (MOR), 2025+ \n
+
 - [https://arxiv.org/abs/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
  (α-β order) Guhao Feng, Han Zhong  \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2024 \n 
 
 - [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
 Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
-  International Conference on Machine Learning (ICML) 2024 \n 
-
-- [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
-Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
+  International Conference on Machine Learning (ICML) 2024 
 
 
 +Reinforcement Learning from Human Feedback:+ We provide the first theoretical result for RLHF with function approximation. We also initialize the studies on RLHF with KL-constraint, under both sentence-wise bandit and token-wise MDP frameworks. Our theoretical insights lead to the development of iterative learning in RLHF and Reinforced Token Optimization (RTO).
