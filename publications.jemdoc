@@ -6,135 +6,135 @@
 
 == Conference Publications 
 
-- [https://arxiv.org/abs/2404.18922 DPO Meets PPO: Reinforced Token Optimization for RLHF] \n 
+- [https://arxiv.org/pdf/2404.18922 DPO Meets PPO: Reinforced Token Optimization for RLHF] \n 
 Han Zhong\*, Zikang Shan\*, Guhao Feng\*, Wei Xiong\*, Xinle Cheng, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
 International Conference on Machine Learning (ICML) 2025 \n 
 
-- [https://arxiv.org/abs/2501.18858 BRiTE: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning] \n
+- [https://arxiv.org/pdf/2501.18858 BRiTE: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning] \n
 Han Zhong, Yutong Yin, Shenao Zhang, Xiaojun Xu, Yuanxin Liu, Yifei Zuo, Zhihan Liu, Boyi Liu, Sirui Zheng, Hongyi Guo, Liwei Wang, Mingyi Hong, Zhaoran Wang \n 
 International Conference on Machine Learning (ICML) 2025 \n 
 
-- [ The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability] \n 
+- [https://arxiv.org/pdf/2506.09940 The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability] \n 
 Jiachen Hu, Rui Ai, Han Zhong, Xiaoyu Chen, Liwei Wang, Zhaoran Wang, Zhuoran Yang \n 
 International Conference on Machine Learning (ICML) 2025 \n 
 
-- [https://arxiv.org/abs/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
+- [https://arxiv.org/pdf/2312.17248 Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity] \n 
  (α-β order) Guhao Feng, Han Zhong \n 
   Conference on Neural Information Processing Systems (NeurIPS) 2024 \n 
 
-- [https://arxiv.org/abs/2404.03578 Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm] \n 
+- [https://arxiv.org/pdf/2404.03578 Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm] \n 
 Miao Lu\*, Han Zhong\*, Tong Zhang, Jose Blanchet \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2024 \n 
 
-- [https://arxiv.org/abs/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
+- [https://arxiv.org/pdf/2302.10796 Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret] \n 
 Han Zhong\*, Jiachen Hu\*, Yecheng Xue, Tongyang Li, Liwei Wang \n 
   International Conference on Machine Learning (ICML) 2024 \n 
 
-- [https://arxiv.org/abs/2312.11456 Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint] \n 
+- [https://arxiv.org/pdf/2312.11456 Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint] \n 
 Wei Xiong\*, Hanze Dong\*, Chenlu Ye\*, Ziqi Wang, Han Zhong, Heng Ji, Nan Jiang, Tong Zhang \n
   International Conference on Machine Learning (ICML) 2024 \n 
 
-- [https://arxiv.org/abs/2402.10207 Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment] \n
+- [https://arxiv.org/pdf/2402.10207 Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment] \n
 Rui Yang\*, Xiaoman Pan\*, Feng Luo\*, Shuang Qiu\*, Han Zhong, Dong Yu, Jianshu Chen \n 
    International Conference on Machine Learning (ICML) 2024 \n 
 
-- [https://arxiv.org/abs/2406.01386 Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond] \n 
+- [https://arxiv.org/pdf/2406.01386 Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond] \n 
 Xutong Liu, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, Wei Chen \n 
  International Conference on Machine Learning (ICML) 2024 \n 
 
-- [https://arxiv.org/abs/2407.10196 A3S: A General Active Clustering Method with Pairwise Constraints] \n 
+- [https://arxiv.org/pdf/2407.10196 A3S: A General Active Clustering Method with Pairwise Constraints] \n 
 Xun Deng, Junlong Liu, Han Zhong, Fuli Feng, Chen Shen, Xiangnan He, Jieping Ye, Zheng Wang \n 
   International Conference on Machine Learning (ICML) 2024 \n 
 
-- [https://arxiv.org/abs/2310.12955 Towards Robust Offline Reinforcement Learning under Diverse Data Corruption] \n 
+- [https://arxiv.org/pdf/2310.12955 Towards Robust Offline Reinforcement Learning under Diverse Data Corruption] \n 
 Rui Yang\*, Han Zhong\*, Jiawei Xu\*, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang \n 
 International Conference on Learning Representations (ICLR) 2024 \n 
 
-- [https://arxiv.org/abs/2404.12648 Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation] \n 
+- [https://arxiv.org/pdf/2404.12648 Sample-efficient Learning of Infinite-horizon Average-reward MDPs with General Function Approximation] \n 
 Jianliang He, Han Zhong, Zhuoran Yang \n 
 International Conference on Learning Representations (ICLR) 2024 \n 
 
-- [https://arxiv.org/abs/2312.04464 Horizon-Free and Instance-Dependent Regret Bounds for Reinforcement Learning with General Function Approximation] \n 
+- [https://arxiv.org/pdf/2312.04464 Horizon-Free and Instance-Dependent Regret Bounds for Reinforcement Learning with General Function Approximation] \n 
 Jiayi Huang, Han Zhong, Liwei Wang, Lin F. Yang \n 
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2024 \n 
 
 
-- [https://arxiv.org/abs/2305.08841 A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes] \n
+- [https://arxiv.org/pdf/2305.08841 A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes] \n
 Han Zhong, Tong Zhang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
-- [https://arxiv.org/abs/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
+- [https://arxiv.org/pdf/2305.09659 Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage]  \n 
  (α-β order) Jose Blanchet, Miao Lu, Tong Zhang, Han Zhong  \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 (short version) \n 
 
 
-- [https://arxiv.org/abs/2305.18258 Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration] \n 
+- [https://arxiv.org/pdf/2305.18258 Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration] \n 
 Zhihan Liu\*, Miao Lu\*, Wei Xiong\*, Han Zhong, Hao Hu, Shenao Zhang, Sirui Zheng, Zhuoran Yang, Zhaoran Wang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 
-- [https://arxiv.org/abs/2306.06836 Tackling Heavy-Tailed Rewards in Reinforcement Learning with Function Approximation: Minimax Optimal and Instance-Dependent Regret Bounds] \n 
+- [https://arxiv.org/pdf/2306.06836 Tackling Heavy-Tailed Rewards in Reinforcement Learning with Function Approximation: Minimax Optimal and Instance-Dependent Regret Bounds] \n 
 Jiayi Huang, Han Zhong, Liwei Wang, Lin F. Yang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
 
-- [https://arxiv.org/abs/2302.01477 A Reduction-based Framework for Sequential Decision Making with Delayed Feedback] \n
+- [https://arxiv.org/pdf/2302.01477 A Reduction-based Framework for Sequential Decision Making with Delayed Feedback] \n
 Yunchang Yang\*, Han Zhong\*, Tianhao Wu\*, Bin Liu, Liwei Wang, Simon S. Du \n
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
-- [https://arxiv.org/abs/2310.19861 Posterior Sampling for Competitive RL: Function Approximation and Partial Observation] \n 
+- [https://arxiv.org/pdf/2310.19861 Posterior Sampling for Competitive RL: Function Approximation and Partial Observation] \n 
 Shuang Qiu\*, Ziyu Dai\*, Han Zhong, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2023 \n 
 
-- [https://arxiv.org/abs/2210.15598 Provable Sim-to-real Transfer in Continuous Domain with Partial Observations] \n 
+- [https://arxiv.org/pdf/2210.15598 Provable Sim-to-real Transfer in Continuous Domain with Partial Observations] \n 
 Jiachen Hu\*, Han Zhong\*, Chi Jin, Liwei Wang \n
 International Conference on Learning Representations (ICLR) 2023 \n 
 
 
-- [https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game] \n
+- [https://arxiv.org/pdf/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game] \n
 Wei Xiong\*, Han Zhong\*, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang \n
  International Conference on Learning Representations (ICLR) 2023 \n 
 
 
-- [https://arxiv.org/abs/2205.13863 Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power] \n
+- [https://arxiv.org/pdf/2205.13863 Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power] \n
 Binghui Li\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang \n
   Conference on Neural Information Processing Systems (NeurIPS) 2022 \n 
 
 
-- [https://arxiv.org/abs/2202.07511 Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets] \n
+- [https://arxiv.org/pdf/2202.07511 Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets] \n
  Han Zhong\*, Wei Xiong\*, Jiyuan Tan\*, Liwei Wang, Tong Zhang, Zhaoran Wang, Zhuoran Yang \n
     International Conference on Machine Learning (ICML) 2022 \n 
 
 
-- [https://arxiv.org/abs/2112.10935 Nearly Optimal Policy Optimization with Stable at Any Time Guarantee] \n
+- [https://arxiv.org/pdf/2112.10935 Nearly Optimal Policy Optimization with Stable at Any Time Guarantee] \n
 Tianhao Wu\*, Yunchang Yang\*, Han Zhong\*, Liwei Wang, Simon S. Du, Jiantao Jiao \n
 International Conference on Machine Learning (ICML) 2022 \n 
 
-- [https://arxiv.org/abs/2205.11140 Human-in-the-loop: Provably Efficient Preference-based Reinforcement Learning with General Function Approximation] \n 
+- [https://arxiv.org/pdf/2205.11140 Human-in-the-loop: Provably Efficient Preference-based Reinforcement Learning with General Function Approximation] \n 
 Xiaoyu Chen\*, Han Zhong\*, Zhuoran Yang, Zhaoran Wang, Liwei Wang \n
 International Conference on Machine Learning (ICML) 2022 \n 
 
-- [https://arxiv.org/abs/2210.01907  A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games] \n 
+- [https://arxiv.org/pdf/2210.01907  A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games] \n 
 Wei Xiong, Han Zhong, Chengshuai Shi, Cong Shen, Tong Zhang \n
  International Conference on Machine Learning (ICML) 2022 \n 
   
 
-- [https://arxiv.org/abs/2106.11692 A Reduction-Based Framework for Conservative Bandits and Reinforcement Learning] \n
+- [https://arxiv.org/pdf/2106.11692 A Reduction-Based Framework for Conservative Bandits and Reinforcement Learning] \n
 Yunchang Yang\*, Tianhao Wu\*, Han Zhong\*, Evrard Garcelon, Matteo Pirotta, Alessandro Lazaric, Liwei Wang, Simon S. Du \n 
 International Conference on Learning Representations (ICLR) 2022 \n 
 
 
-- [https://arxiv.org/abs/2110.13876 Breaking the Moments Condition Barrier: No-Regret Algorithm for Bandits with Super Heavy-Tailed Payoffs] \n
+- [https://arxiv.org/pdf/2110.13876 Breaking the Moments Condition Barrier: No-Regret Algorithm for Bandits with Super Heavy-Tailed Payoffs] \n
 Han Zhong, Jiayi Huang, Lin F. Yang, Liwei Wang \n 
  Conference on Neural Information Processing Systems (NeurIPS) 2021 
 
 == Journal Publications 
 
-- [https://arxiv.org/abs/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
+- [https://arxiv.org/pdf/2211.01962 GEC: A Unified Framework for Interactive Decision Making in MDP, POMDP, and Beyond] \n
 Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
 Mathematics of Operations Research (MOR), 2025+ \n 
 
-- [https://arxiv.org/abs/2405.19332 Self-Exploring Language Models: Active Preference Elicitation for Online Alignment] \n 
+- [https://arxiv.org/pdf/2405.19332 Self-Exploring Language Models: Active Preference Elicitation for Online Alignment] \n 
 Shenao Zhang, Donghan Yu, Hiteshi Sharma, Han Zhong, Zhihan Liu, Ziyi Yang, Shuohang Wang, Hany Hassan, Zhaoran Wang \n 
 Transactions on Machine Learning Research (TMLR) 2025 \n
 
@@ -144,14 +144,14 @@ Journal of Machine Learning Research (JMLR) 2023 \n
 
  == Preprints
 
-- [https://arxiv.org/abs/2502.06777 Learning an Optimal Assortment Policy under Observational Data] \n 
+- [https://arxiv.org/pdf/2502.06777 Learning an Optimal Assortment Policy under Observational Data] \n 
 Yuxuan Han, Han Zhong, Miao Lu, Jose Blanchet, Zhengyuan Zhou \n 
 
-- [https://arxiv.org/abs/2502.14560 Less is More: Improving LLM Alignment via Preference Data Selection] \n 
+- [https://arxiv.org/pdf/2502.14560 Less is More: Improving LLM Alignment via Preference Data Selection] \n 
 Xun Deng, Han Zhong, Rui Ai, Fuli Feng, Zheng Wang, Xiangnan He \n 
 
- - [https://arxiv.org/abs/2110.08984 Optimistic Policy Optimization is Provably Efficient in Non-stationary MDPs] \n 
+ - [https://arxiv.org/pdf/2110.08984 Optimistic Policy Optimization is Provably Efficient in Non-stationary MDPs] \n 
 Han Zhong, Zhongren Chen, Zhuoran Yang, Zhaoran Wang, Csaba Szepesvári \n 
 
-- [https://arxiv.org/abs/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n 
+- [https://arxiv.org/pdf/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n 
 Han Zhong, Xun Deng, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang, Runze Li  
