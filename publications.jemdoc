@@ -6,6 +6,10 @@
 
 == Conference Publications 
 
+- [https://arxiv.org/pdf/2502.14560 Less is More: Improving LLM Alignment via Preference Data Selection] \n 
+Xun Deng, Han Zhong, Rui Ai, Fuli Feng, Zheng Wang, Xiangnan He \n 
+Conference on Neural Information Processing Systems (NeurIPS) 2025 \n 
+
 - [https://arxiv.org/pdf/2404.18922 DPO Meets PPO: Reinforced Token Optimization for RLHF] \n 
 Han Zhong\*, Zikang Shan\*, Guhao Feng\*, Wei Xiong\*, Xinle Cheng, Li Zhao, Di He, Jiang Bian, Liwei Wang \n 
 International Conference on Machine Learning (ICML) 2025 \n 
@@ -134,6 +138,10 @@ Han Zhong, Jiayi Huang, Lin F. Yang, Liwei Wang \n
 Han Zhong\*, Wei Xiong\*, Sirui Zheng, Liwei Wang, Zhaoran Wang, Zhuoran Yang, Tong Zhang \n
 Mathematics of Operations Research (MOR), 2025+ \n 
 
+- [https://arxiv.org/pdf/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n 
+Han Zhong, Xun Deng, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang, Runze Li  \n 
+Journal of the American Statistical Association (JASA), 2025+ \n 
+
 - [https://arxiv.org/pdf/2405.19332 Self-Exploring Language Models: Active Preference Elicitation for Online Alignment] \n 
 Shenao Zhang, Donghan Yu, Hiteshi Sharma, Han Zhong, Zhihan Liu, Ziyi Yang, Shuohang Wang, Hany Hassan, Zhaoran Wang \n 
 Transactions on Machine Learning Research (TMLR) 2025 \n
@@ -147,11 +155,7 @@ Journal of Machine Learning Research (JMLR) 2023 \n
 - [https://arxiv.org/pdf/2502.06777 Learning an Optimal Assortment Policy under Observational Data] \n 
 Yuxuan Han, Han Zhong, Miao Lu, Jose Blanchet, Zhengyuan Zhou \n 
 
-- [https://arxiv.org/pdf/2502.14560 Less is More: Improving LLM Alignment via Preference Data Selection] \n 
-Xun Deng, Han Zhong, Rui Ai, Fuli Feng, Zheng Wang, Xiangnan He \n 
-
- - [https://arxiv.org/pdf/2110.08984 Optimistic Policy Optimization is Provably Efficient in Non-stationary MDPs] \n 
+- [https://arxiv.org/pdf/2110.08984 Optimistic Policy Optimization is Provably Efficient in Non-stationary MDPs] \n 
 Han Zhong, Zhongren Chen, Zhuoran Yang, Zhaoran Wang, Csaba Szepesvári \n 
 
-- [https://arxiv.org/pdf/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n 
-Han Zhong, Xun Deng, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang, Runze Li  
+
