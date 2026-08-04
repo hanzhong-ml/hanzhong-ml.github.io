@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   site: {
-    lastUpdated: "Jul 15, 2026"
+    lastUpdated: "Aug 4, 2026"
   },
 
   profile: {
@@ -410,6 +410,11 @@ window.SITE_DATA = {
       {
         title: "Preprints",
         items: [
+          {
+            title: "Interaction Is Not Necessary for Order-Optimal 1-Bit Mean Estimation",
+            url: "https://arxiv.org/pdf/2608.02538",
+            authors: "(α-β order) Jiachen Hu, Han Zhong"
+          },
           {
             title: "Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning",
             url: "https://arxiv.org/pdf/2604.10701",
