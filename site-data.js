@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   site: {
-    lastUpdated: "Jul 15, 2026"
+    lastUpdated: "Oct 2, 2026"
   },
 
   profile: {
@@ -42,6 +42,18 @@ window.SITE_DATA = {
     {
       title: "",
       papers: [
+        {
+          title: "Policy Iteration Is Not Strongly Polynomial for Deterministic Markov Decision Processes: The Price of Algorithmic Anarchy",
+          url: "https://arxiv.org/pdf/2609.40147",
+          authors: "Han Zhong, Yinyu Ye",
+          year: "2026"
+        },
+        {
+          title: "Linear Programming Representations and Strongly Polynomial Algorithms for Robust Markov Decision Processes",
+          url: "https://arxiv.org/pdf/2610.02131",
+          authors: "Han Zhong, Yinyu Ye",
+          year: "2026"
+        },
         {
           title: "Optimism Stabilizes Thompson Sampling for Adaptive Inference",
           url: "https://arxiv.org/pdf/2602.06014",
@@ -410,6 +422,26 @@ window.SITE_DATA = {
       {
         title: "Preprints",
         items: [
+          {
+            title: "Policy Iteration Is Not Strongly Polynomial for Deterministic Markov Decision Processes: The Price of Algorithmic Anarchy",
+            url: "https://arxiv.org/pdf/2609.40147",
+            authors: "Han Zhong, Yinyu Ye"
+          },
+          {
+            title: "Linear Programming Representations and Strongly Polynomial Algorithms for Robust Markov Decision Processes",
+            url: "https://arxiv.org/pdf/2610.02131",
+            authors: "Han Zhong, Yinyu Ye"
+          },
+          {
+            title: "Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts",
+            url: "https://arxiv.org/pdf/2609.20353",
+            authors: "(α-β order) Rui Ai, David Simchi-Levi, Han Zhong"
+          },
+          {
+            title: "Interaction Is Not Necessary for Order-Optimal 1-Bit Mean Estimation",
+            url: "https://arxiv.org/pdf/2608.02538",
+            authors: "(α-β order) Jiachen Hu, Han Zhong"
+          },
           {
             title: "Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning",
             url: "https://arxiv.org/pdf/2604.10701",
