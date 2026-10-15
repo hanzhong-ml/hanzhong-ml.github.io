@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   site: {
-    lastUpdated: "Oct 2, 2026"
+    lastUpdated: "Oct 15, 2026"
   },
 
   profile: {
@@ -433,9 +433,19 @@ window.SITE_DATA = {
             authors: "Han Zhong, Yinyu Ye"
           },
           {
+            title: "When Does Momentum Help in Reinforcement Learning with Verifiable Rewards?",
+            url: "https://arxiv.org/pdf/2610.20413",
+            authors: "Kaifei Wang, Zikang Shan, Liwei Wang, Yinyu Ye, Han Zhong"
+          },
+          {
             title: "Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts",
             url: "https://arxiv.org/pdf/2609.20353",
             authors: "(α-β order) Rui Ai, David Simchi-Levi, Han Zhong"
+          },
+          {
+            title: "Toward the Optimal Regret-Instability Trade-off in Multi-Armed Bandits",
+            url: "https://arxiv.org/pdf/2608.17841",
+            authors: "Kaifei Wang, Yinyu Ye, Han Zhong"
           },
           {
             title: "Interaction Is Not Necessary for Order-Optimal 1-Bit Mean Estimation",
